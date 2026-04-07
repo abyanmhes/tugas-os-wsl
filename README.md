@@ -15,7 +15,7 @@ python3 main.py delete 1
 | Nama | NIM | Kontribusi |
 |------|-----|------------|
 | Abyan Maheswara | 224443024 | Dev utama, setup repo |
-| N Jovan Alexander | 2244439 | Analisis Process |
+| N Jovan Alexander | 224443039 | Analisis Process |
 | Intan Nafisah R | 224443034 | Analisis Memory |
 | Ghifary Barra V | 224443032 | Simulasi Beban |
 | M Ariyq Naufal R | 224443035 | Analisis Filesystem |
