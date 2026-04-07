@@ -2,7 +2,7 @@
 
 ## Screenshot
 ![free -m](../screenshots/free-m.png)
-![htop memory](../screenshots/htop-memory.png)
+![htop memory](../screenshots/htop.png)
 
 ## Jawaban Pertanyaan Analitis
 OS mengalokasikan memory untuk proses menggunakan virtual memory
